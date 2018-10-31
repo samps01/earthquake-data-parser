@@ -4,7 +4,7 @@ Parses the data for getting State specific info from earthquake data set (Now on
 
 ## Getting Started
 
-You can run the index.html directly on the browser
+You can run the index.html directly in the browser
 
 
 ### Approach
@@ -36,7 +36,3 @@ printData(arr) method modifies Z to +00:00 format
 ## Authors
 
 * **Samson Pallivathukkal** - [GitHub](https://github.com/samps01)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-#
